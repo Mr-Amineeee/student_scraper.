@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+*.pyc
+
+screenshots/
+logs/
+
+data/*.csv
+
+error.png
+students.csv
